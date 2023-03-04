@@ -1,14 +1,20 @@
-﻿![banner Javascript - Change Background Color onclick](https://github.com/AnaProgramando/change_background_color_js/blob/68b3b96e8be6e1903acbece853699e2f2ac545b6/change_background_color_js.png)
+<div align="right">
+
+#### Project in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/AnaProgramando/change_background_color_js/blob/ad3ec22f14a507f38b262e28d9750e5ce59fceda/README-us.md)</kbd>
+
+</div>
+
+![banner Javascript - Change Background Color onclick](https://github.com/AnaProgramando/change_background_color_js/blob/68b3b96e8be6e1903acbece853699e2f2ac545b6/change_background_color_js.png)
 ----
 
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=32CD32&style=for-the-badge"/>
 
 <p align="center">
  <a href="#-welcome">Welcome</a> | 
- <a href="#-javascript---change-background-color-onclick">Change Background Color onclick</a> |  
+ <a href="#-javascript---alterar-a-cor-de-fundo-com-onclick">Alterar a Cor de Fundo com onclick</a> |  
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
  <a href="#%EF%B8%8F-contatos">Contatos</a> | 
- <a href="#%EF%B8%8F-autora">Autora</a>
+ <a href="#%EF%B8%8F-desenvolvedora">Desenvolvedora</a>
 </p>
 
 # 🤗 Welcome
@@ -17,15 +23,17 @@ Olá, seja muito bem vinda(o)!
 
 Tive a ideia de começar o desafio de #100DaysOfCode, além de compartilhar alguns projetos para quem tem interesse em aprender JavaScript, HTML e CSS, por isso se trata de algo bem simples para quem gostaria de iniciar na programação ou precisa melhorar as suas habilidades.
 
-<br>
-
-## <img align="center" alt="Ana-JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> Javascript - Change Background Color onclick
-
 📚 Aproveite o código desse exercício
 
 👩‍💻 Refaça do seu jeito
 
 😉 Se tiver qualquer dúvida, me contate
+
+<br>
+
+## <img align="center" alt="Ana-JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> Javascript - Alterar a Cor de Fundo com onclick
+
+https://user-images.githubusercontent.com/31097110/222921623-70ec4b2f-1fce-4bf7-93f8-eb48ccb699c8.mp4
 
 <br>
 
@@ -52,7 +60,7 @@ Se precisar de ajuda, entre em contato comigo 😉
 <br>
 <br>
 
-## 🙋‍♀️ Autora
+## 🙋‍♀️ Desenvolvedora
 
 <div>
   <img align="left" alt="Ana Valentim" width="100px" src="https://avatars.githubusercontent.com/u/31097110?v=4"/>
