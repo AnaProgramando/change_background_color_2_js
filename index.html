@@ -1,16 +1,52 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title> Javascript - Change Background Color onclick </title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-  </head>
-  <body>
-    <div class="container">
-      <span id='1' onclick="color(this)" class='color clr1'></span>
-      <span id='2' onclick="color(this)" class='color clr2'></span>
-      <span onclick="color(this)" class='color clr3'></span>
-      <span onclick="color(this)" class='color clr4'></span>
-    </div>
-    <script type="text/javascript" src="script.js"></script>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Color</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>
+      Altere a cor do background
+    </h1>
+    <h3>Escolha a cor que mais gosta para ser o background</h3>
+  </header>
+
+  <main>
+    <section class="suggestion">
+      <h3>Sugestões</h3>
+      <ul>
+        <li data-color="#6a5acd">
+          <span class="hexColor js-inactive"></span>
+        </li>
+        <li data-color="#7b68ee">
+          <span class="hexColor js-inactive"></span>
+
+        </li>
+        <li data-color="#00ff7f">
+          <span class="hexColor js-inactive"></span>
+
+        </li>
+        <li data-color="#00fa9a">
+          <span class="hexColor js-inactive"></span>
+
+        </li>
+      </ul>
+    </section>
+
+    <section class="color">
+      <label for="color-picker">
+        Ou escolha uma cor
+        <input type="color" name="color-picker" id="color-picker">
+        <span></span>
+      </label>
+    </section>
+  </main>
+
+  <script src="index.js"></script>
+</body>
 </html>
