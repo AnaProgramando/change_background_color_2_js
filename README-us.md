@@ -73,7 +73,9 @@ If you need help, contact me 😉
 💙 If you liked this project, give it a ⭐ and share!
 
 <br><br>
-[⬆ Back to Top]](https://github.com/AnaProgramando/change_background_color_2_js/blob/main/README-us.md#) <br>
+[⬆ Back to Top]](https://github.com/AnaProgramando/change_background_color_2_js/blob/main/README-us.md#) 
+
+<br>
 
  <div>
   <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/change_background_color_2_js/blob/a93372b99f44438f63f57b63336e18c9271aa6c9/cc.gif"/>
