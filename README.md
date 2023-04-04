@@ -4,7 +4,7 @@
 
 </div>
 
-![banner Javascript - Change Background Color onclick](https://github.com/AnaProgramando/change_background_color_js/blob/68b3b96e8be6e1903acbece853699e2f2ac545b6/change_background_color_js.png)
+![banner Javascript - Change Background Color onclick](https://github.com/AnaProgramando/change_background_color_2_js/blob/a93372b99f44438f63f57b63336e18c9271aa6c9/change_background_color_2_js.png)
 ----
 
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=32CD32&style=for-the-badge"/>
@@ -33,7 +33,7 @@ Tive a ideia de começar o desafio de #100DaysOfCode, além de compartilhar algu
 
 ## <img align="center" alt="Ana-JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> Javascript - Alterar a Cor de Fundo com onclick
 
-https://user-images.githubusercontent.com/31097110/222921623-70ec4b2f-1fce-4bf7-93f8-eb48ccb699c8.mp4
+https://user-images.githubusercontent.com/31097110/229909607-814b1355-9397-44fa-8cd5-9631b8e2956d.mp4
 
 <br>
 
@@ -77,5 +77,5 @@ Se precisar de ajuda, entre em contato comigo 😉
 
 
  <div>
-  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/change_background_color_js/blob/68b3b96e8be6e1903acbece853699e2f2ac545b6/cc.gif"/>
+  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/change_background_color_2_js/blob/a93372b99f44438f63f57b63336e18c9271aa6c9/cc.gif"/>
 </div>
