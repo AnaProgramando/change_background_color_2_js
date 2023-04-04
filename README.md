@@ -1,6 +1,6 @@
 <div align="right">
 
-#### Project in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/AnaProgramando/change_background_color_js/blob/ad3ec22f14a507f38b262e28d9750e5ce59fceda/README-us.md)</kbd>
+#### Project in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/AnaProgramando/change_background_color_2_js/blob/main/README-us.md)</kbd>
 
 </div>
 
