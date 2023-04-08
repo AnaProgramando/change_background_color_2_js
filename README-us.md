@@ -61,22 +61,35 @@ If you need help, contact me 😉
 <br>
 <br>
 
-## 🙋‍♀️ Developer
+## Contributors ✨
 
-<div>
-  <img align="left" alt="Ana Valentim" width="100px" src="https://avatars.githubusercontent.com/u/31097110?v=4"/>
-</div>
+✏️ Created with ❤️, JavaScript, HTML e CSS by:
+
+<table>
+  <tr>
+  <td align="center"><a href="https://github.com/AnaProgramando"><img src="https://avatars.githubusercontent.com/u/31097110?v=4" width=150px height=150px /></a></br> 
+  <a href="https://github.com/AnaProgramando">AnaProgramando - Ana Valentim</a>
+  <br>
+  <a href="https://www.linkedin.com/in/ana-beatriz-valentim"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px" height="32px"></a></td>
+
+  <td align="center" ><a href="https://github.com/antonioal97"><img src="https://avatars.githubusercontent.com/u/49810694?v=4" width=150px height=150px /></a></br>
+  <a href="https://github.com/antonioal97">antonioal97 - Antônio Alberto</a>
+  <br>
+  <a href="https://www.linkedin.com/in/antonioal97/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px" height="32px"></a></td>
+  </tr>
+</table>
 
 <br>
-✏️ Created with ❤️, JavaScript, HTML e CSS by <a href="https://github.com/AnaProgramando">Ana Valentim</a>.
 
 💙 If you liked this project, give it a ⭐ and share!
 
-<br><br>
-[⬆ Back to Top](https://github.com/AnaProgramando/change_background_color_2_js/blob/main/README-us.md#) <br>
+<br>
+
+[⬆ Back to Top](https://github.com/AnaProgramando/change_background_color_2_js/blob/main/README.md#) <br>
 
 <br>
 
  <div>
   <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/change_background_color_2_js/blob/a93372b99f44438f63f57b63336e18c9271aa6c9/cc.gif"/>
 </div>
+
