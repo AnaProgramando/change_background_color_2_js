@@ -14,7 +14,7 @@
  <a href="#-javascript---change-background-color-onclick">Change Background Color onclick</a> | 
  <a href="#-questions">Questions</a> | 
  <a href="#%EF%B8%8F-contacts">Contacts</a> | 
- <a href="#%EF%B8%8F-developer">Developer</a>
+ <a href="#%EF%B8%8F-contributors">Contributors</a>
 </p>
 
 # 🤗 Welcome
@@ -61,7 +61,7 @@ If you need help, contact me 😉
 <br>
 <br>
 
-## Contributors ✨
+## 🙋‍♀️ Contributors
 
 ✏️ Created with ❤️, JavaScript, HTML e CSS by:
 
