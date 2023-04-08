@@ -85,7 +85,7 @@ If you need help, contact me 😉
 
 <br>
 
-[⬆ Back to Top](https://github.com/AnaProgramando/change_background_color_2_js/blob/main/README.md#) <br>
+[⬆ Back to Top](https://github.com/AnaProgramando/change_background_color_2_js/blob/main/README-us.md#) <br>
 
 <br>
 
