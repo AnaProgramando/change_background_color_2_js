@@ -66,11 +66,15 @@ Se precisar de ajuda, entre em contato comigo 😉
 
 <table>
   <tr>
-  <td align="center"><a href="https://github.com/AnaProgramando"><img src="https://avatars.githubusercontent.com/u/31097110?v=4" width=150px height=150px /></a></br>  <h4 style="color:red;">AnaProgramando - Ana Valentim</h4>
-  <a href="https://www.linkedin.com/in/ana-beatriz-valentim"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+  <td align="center"><a href="https://github.com/AnaProgramando"><img src="https://avatars.githubusercontent.com/u/31097110?v=4" width=150px height=150px /></a></br> 
+  <a href="https://github.com/AnaProgramando">AnaProgramando - Ana Valentim</a>
+  <br>
+  <a href="https://www.linkedin.com/in/ana-beatriz-valentim"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px" height="32px"></a></td>
 
-  <td align="center" ><a href="https://github.com/antonioal97"><img src="https://avatars.githubusercontent.com/u/49810694?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">antonioal97 - Antônio Alberto</h4>
-  <a href="https://www.linkedin.com/in/antonioal97/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+  <td align="center" ><a href="https://github.com/antonioal97"><img src="https://avatars.githubusercontent.com/u/49810694?v=4" width=150px height=150px /></a></br>
+  <a href="https://github.com/antonioal97">antonioal97 - Antônio Alberto</a>
+  <br>
+  <a href="https://www.linkedin.com/in/antonioal97/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px" height="32px"></a></td>
   </tr>
 </table>
 
